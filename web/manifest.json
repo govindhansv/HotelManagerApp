@@ -1,6 +1,6 @@
 {
-    "name": "firebase_app",
-    "short_name": "firebase_app",
+    "name": "hotelmanager",
+    "short_name": "hotelmanager",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

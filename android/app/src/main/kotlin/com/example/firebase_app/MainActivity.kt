@@ -1,4 +1,4 @@
-package com.example.firebase_app
+package com.example.hotelmanager
 
 import io.flutter.embedding.android.FlutterActivity
 

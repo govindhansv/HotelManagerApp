@@ -1,4 +1,4 @@
-# firebase_app
+# hotelmanager
 
 A new Flutter project.
 
